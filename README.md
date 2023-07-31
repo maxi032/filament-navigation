@@ -1,2 +1,2 @@
 # filament-navigation
-Generate frontend navigation for Laravel filament CMS
+WIP Generate frontend navigation for Laravel filament CMS
