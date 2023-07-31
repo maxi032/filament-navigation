@@ -11,6 +11,15 @@
             "Maxi032\\FilamentNavigation\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Maxi032\\FilamentNavigation\\FilamentNavigationServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false,
     "authors": [
         {
             "name": "Bogdan Comarniceanu",
