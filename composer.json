@@ -1,0 +1,20 @@
+{
+    "name": "maxi032/filament-navigation",
+    "description": "Create navigation menus in the frontend of filament",
+    "require": {
+        "php": "^8.1",
+        "filament/filament": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maxi032\\FilamentNavigation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bogdan Comarniceanu",
+            "email": "maxxyro@yahoo.com"
+        }
+    ]
+}
